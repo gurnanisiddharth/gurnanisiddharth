@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gurnanisiddharth
-- 👀 I’m interested in coding 
+- 👀 I’m interested in coding, IoT and web development
 - 🌱 I’m currently learning react software development framework
 - 💞️ I’m looking to collaborate on team projects (C/C++/Python)
 - 📫 How to reach me https://www.linkedin.com/in/siddharth-gurnani/
