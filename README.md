@@ -5,8 +5,9 @@
  - 🌱 I’m currently learning react software development framework
  - 💞️ I’m looking to collaborate on team projects (C/C++/Python)
  - 📫 How to reach me : - [LinkedIn](https://www.linkedin.com/in/siddharth-gurnani/) ,  [Email](mailto:gurnanisiddharth@gmail.com)
- [
-![Siddharth's Github Stats](https://github-readme-stats.vercel.app/api?username=gurnanisiddharth&show_icons=true&theme=radical)]
+
+
+![Siddharth's Github Stats](https://github-readme-stats.vercel.app/api?username=gurnanisiddharth&show_icons=true&theme=radical)
 
  
 
