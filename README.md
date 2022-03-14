@@ -8,7 +8,7 @@
  - [
 ![Siddharth's Github Stats](https://github-readme-stats.vercel.app/api?username=gurnanisiddharth&show_icons=true&theme=radical)](https://github.com/gurnanisiddharth/github-readme-stats)
 
- - 
+ 
 
 <!---
 gurnanisiddharth/gurnanisiddharth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
