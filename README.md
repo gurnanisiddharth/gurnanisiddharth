@@ -1,7 +1,7 @@
 
 
   ##  I am Siddharth Gurnani
- - 👀 I’m interested in Coding, Internet of Things and Web Development
+ - 👀 I’m interested in Coding, Internet of Things , Blockchain development and Web Development
  - 🌱 I’m currently learning react software development framework
  - 💞️ I’m looking to collaborate on team projects (C/C++/Python)
  - 📫 How to reach me : - [LinkedIn](https://www.linkedin.com/in/siddharth-gurnani/) ,  [Email](mailto:gurnanisiddharth@gmail.com) , [My Website](https://sidg.in)
